@@ -52,10 +52,10 @@ jinqiao\@seu.edu.cn | (+86) 13220723971 |
 - 实现了简易的漫反射与镜面反射渲染，支持渲染球体以及多边形物体
 - 采用 C++ 编写，在原有的基础上使用 OpenMP 多线程加速光线追踪渲染过程，最大程度利用计算资源
 
-*NES 模拟器* #h(1fr) #link("https://github.com/JinBridger/NESemu")[JinBridger/NESemu] \
-个人项目 #h(1fr)  \
-- 通过阅读 6502 指令集汇编文档，实现 6502 指令集反汇编并编写解释器
-- 采用 C++ 编写，通过 SFML 生成显示画面，能够正常运行超级马里奥的卡带文件
+// *NES 模拟器* #h(1fr) #link("https://github.com/JinBridger/NESemu")[JinBridger/NESemu] \
+// 个人项目 #h(1fr)  \
+// - 通过阅读 6502 指令集汇编文档，实现 6502 指令集反汇编并编写解释器
+// - 采用 C++ 编写，通过 SFML 生成显示画面，能够正常运行超级马里奥的卡带文件
 
 *ROS 图像识别机器人* #h(1fr) #link("https://github.com/JinBridger/SEU-RoboCup2022-Home")[JinBridger/SEU-RoboCup2022-Home] \
 竞赛项目 #h(1fr)  \
@@ -80,13 +80,18 @@ jinqiao\@seu.edu.cn | (+86) 13220723971 |
 - 自行设计运动预测以及弹道计算算法，并根据实验结果调节算法参数，最终达到约 95% 的准确率。
 - 最终产品参加 2023 RoboMaster 赛事并获得奖项，项目后被学校推荐为省级项目
 
+== 期刊论文
+#chiline()
+
+*[ 在投 ] Optimal Harvest-then-Transmit Scheduling for Throughput Maximization in Time-varying RF Powered Systems* #h(1fr) IEEE Journal of Selected Areas in Communications (CCF-A), 第三作者 \
+
 == 竞赛奖项
 #chiline()
 
 *ASC 世界大学生超级计算机竞赛初赛* 二等奖 #h(1fr) 2024 \
 *北京大学 HPCGame 高性能计算竞赛* 三等奖 #h(1fr) 2023 \
 
-== 校园社团
+== 社团活动
 #chiline()
 
 *东南大学 Linux 社（前微软学生俱乐部）* #h(1fr) 2023/08 -- 至今 \
