@@ -83,7 +83,7 @@ jinqiao\@seu.edu.cn | (+86) 13220723971 |
 == 期刊论文
 #chiline()
 
-*[ 在投 ] Optimal Harvest-then-Transmit Scheduling for Throughput Maximization in Time-varying RF Powered Systems* #h(1fr) IEEE Journal of Selected Areas in Communications (CCF-A), 第三作者 \
+*[ 已录用 ] Optimal Harvest-then-Transmit Scheduling for Throughput Maximization in Time-varying RF Powered Systems* #h(1fr) IEEE Journal of Selected Areas in Communications (CCF-A), 第三作者 \
 
 == 竞赛奖项
 #chiline()
