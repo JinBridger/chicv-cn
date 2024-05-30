@@ -40,7 +40,7 @@ jinqiao\@seu.edu.cn | (+86) 13220723971 |
 
 *英特尔* #h(1fr) 2023/08 -- 至今 \
 深度学习工程师 #h(1fr) 上海市 \
-- 参与端侧大模型框架优化工作
+- 参与大模型框架Intel® LLM library for PyTorch开发工作 #h(1fr) #link("https://github.com/intel-analytics/ipex-llm")[intel-analytics/ipex-llm]
 - 在多种计算平台 (CPU, dGPU, iGPU) 收集测试数据，分析导致性能波动的原因
 - 给对应的 API 编写使用文档以及示例，在框架基础上根据客户需求定制端到端应用
 
@@ -51,11 +51,6 @@ jinqiao\@seu.edu.cn | (+86) 13220723971 |
 个人项目 #h(1fr)  \
 - 实现了简易的漫反射与镜面反射渲染，支持渲染球体以及多边形物体
 - 采用 C++ 编写，在原有的基础上使用 OpenMP 多线程加速光线追踪渲染过程，最大程度利用计算资源
-
-// *NES 模拟器* #h(1fr) #link("https://github.com/JinBridger/NESemu")[JinBridger/NESemu] \
-// 个人项目 #h(1fr)  \
-// - 通过阅读 6502 指令集汇编文档，实现 6502 指令集反汇编并编写解释器
-// - 采用 C++ 编写，通过 SFML 生成显示画面，能够正常运行超级马里奥的卡带文件
 
 *ROS 图像识别机器人* #h(1fr) #link("https://github.com/JinBridger/SEU-RoboCup2022-Home")[JinBridger/SEU-RoboCup2022-Home] \
 竞赛项目 #h(1fr)  \
@@ -68,12 +63,6 @@ jinqiao\@seu.edu.cn | (+86) 13220723971 |
 - 基于 xv6 内核添加系统调用、调度算法以及内存保护程序
 - 根据论文实现了一个简单的 MapReduce 计算框架，可以运行单词计数程序
 
-// *VCampus 校园管理系统* #h(1fr) #link("https://github.com/JinBridger/SEU-SummerSchool-VCampus")[JinBridger/SEU-SummerSchool-VCampus] \
-// 课程设计 #h(1fr)  \
-// - 根据需求调研目前工业界采用的技术栈，采用客户端-服务器架构开发
-// - 采用 Hibernate ORM + MySQL 作为数据库，并采用 Kotlin 以及 Compose Desktop 框架编写客户端大部分代码
-// - 作为项目小组组长协调组员进行开发工作，最终获得任课教师极高评价
-
 *基于无人机平台的智能锁定稳定打击云台* #h(1fr) \
 大学生创新创业项目 #h(1fr)  \
 - 在计算资源有限的平台 (NUC) 上采用神经网络以及物体检测算法搭建智能云台，通过优化程序达到每秒 60 帧的检测速度
@@ -83,7 +72,9 @@ jinqiao\@seu.edu.cn | (+86) 13220723971 |
 == 期刊论文
 #chiline()
 
-*[ 已录用 ] Optimal Harvest-then-Transmit Scheduling for Throughput Maximization in Time-varying RF Powered Systems* #h(1fr) IEEE Journal of Selected Areas in Communications (CCF-A), 第三作者 \
+- Feng Shan, Junzhou Luo, *Qiao Jin*, Liwen Cao, Weiwei Wu, Zhen Ling and Fang Dong, \
+  "Optimal Harvest-then-Transmit Scheduling for Throughput Maximization in Time-varying RF Powered Systems" \
+  IEEE Journal of Selected Areas in Communications *(CCF-A)* [ 已录用，预计24Q3见刊 ]
 
 == 竞赛奖项
 #chiline()
