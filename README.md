@@ -8,7 +8,7 @@ A simple CV template for [typst.app](https://typst.app).
 
 ### 快速开始
 
-在 [typst.app](https://typst.app) 创建一个项目, 把 https://github.com/JinBridger/cv/blob/master/template/cv.typ 里面的内容全部复制进去即可!
+在 [typst.app](https://typst.app) 创建一个项目, 把 https://github.com/JinBridger/chicv-cn/blob/master/template/cv.typ 里面的内容全部复制进去即可!
 
 ### 自定义你的简历
 
